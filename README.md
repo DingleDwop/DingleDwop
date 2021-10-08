@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DingleDwop
+- 👀 I’m interested in learning coding for my furutre careers
+- 🌱 I’m currently learning C++, PLC Programming, Java, and Python
+- I'm very new to coding and any help, hints and assistance will be greatly appreciated
